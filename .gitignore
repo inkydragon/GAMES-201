@@ -1,0 +1,13 @@
+# vscode
+.vscode/
+
+# ipynb
+.ipynb_checkpoints/
+
+# gen MP4, gif
+frame/
+*.png
+*.mp4
+*.gif
+
+*.dat
